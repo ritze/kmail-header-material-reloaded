@@ -1,5 +1,5 @@
 body {
-	background-color: #eff0f1 !important;
+	background-color: #EFF0F1 !important;
 	background-margin: 0px auto;
 	padding: 3px;
 	line-height: 18px;
@@ -11,7 +11,7 @@ div#headerbox {
 	margin-bottom: 1em;
 	background-color: white;
 	padding: 5px 20px;
-  box-shadow: 1px 1px 8px -2px #444;
+	box-shadow: 1px 1px 8px -2px #444;
 	color: #333 !important;
 	border-top: 5px solid #3daee9;
 	overflow: auto;
@@ -67,9 +67,9 @@ div.headerrightdate {
 
 #kmailContent {
 	margin-top: 10px;
-  border-radius:2px;
+	border-radius:2px;
 	padding: 20px;
 	background-color: white;
 	box-shadow: 1px 1px 8px -2px #444;
-  clear: both;
+	clear: both;
 }
