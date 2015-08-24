@@ -9,8 +9,17 @@ A fork from the Material theme for KMail's email headers
 * Link to the original Material theme: http://opendesktop.org/content/show.php?content=166865
 
 
+Contributors
+------------
+
+* XavierCLL
+
+
 Changelog
 ---------
 
+v0.3:
+* Updated theme based on colors and icon of Breeze theme (by XavierCLL)
+
 v0.2:
-* Change Color on top to breeze blue
+* Change color on top to breeze blue
